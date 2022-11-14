@@ -1,1 +1,2 @@
-# Creditcard-problem
+# problem-solving
+Boilerplate for students
